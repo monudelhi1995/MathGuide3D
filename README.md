@@ -1,1 +1,0 @@
-# MathGuide3D
